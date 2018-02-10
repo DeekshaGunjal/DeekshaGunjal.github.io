@@ -11,7 +11,12 @@
     display: inline-block;
     font-size: 15px;
     cursor: pointer;
-    float: left;}
+    float: left;
+    margin-top:10px;
+    
+}
+    
+    
 
 
 .btn-group .button:hover {
