@@ -1,0 +1,115 @@
+.btn-group .button {
+    background-color: #1C4C69;
+    border: none;
+    color: white;
+    padding-top: 2%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 2%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    float: left;}
+
+
+.btn-group .button:hover {
+    background-color: #4A82A4;
+}
+.btn-group .button:active{
+    background-color: #4A82A4;
+}
+.btn-group {
+    background-color: #1C4C69;
+    height: 100px;
+    width: 100%;
+}
+.btn-group img{
+    float: left;
+
+}
+body
+{
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.guwahati1
+{
+    width: 100%;
+    height: 300px;
+    <!--border: 2px solid black;-->
+}
+
+.guwahati1 img
+{
+    width : 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.GOAPS h2
+{
+  color: blue;
+  font-family: "Arial";
+  font-size: 22px;
+}
+.GOAPS a{
+    color: #53A6D8;
+    text-decoration: none;
+}
+.GOAPS a:hover{
+    color: #3B6279;
+}
+
+.leftscroll
+{
+    margin-left: 4%;
+    margin-right: 4%;
+   <!-- border: 1px solid black;-->
+    height: 60px;
+}
+
+.leftscroll h2{
+    color: red;
+    font-family: "Arial";
+    font-size: 22px;
+
+   <!-- border: 1px solid grey;-->
+}
+.ImpNotice{
+    margin-left: 4%;
+    margin-right: 4%;
+    background-color: #FC9805;
+    height: 45px;
+}
+.ImpNotice h2{
+    font-family: "Verdana";
+    font-weight: 550;
+    padding-top: 0.5%;
+}
+
+.notice_andar{
+    margin-right: 4%;
+    margin-left: 4%;
+    background-color: #B4E2E8;
+
+}
+
+.first{
+    margin-right: 2%;
+    margin-left: 2%;
+    color: blue;
+    <!--font-weight: 200;-->
+    font-size: 15px;
+    font-family: "Verdana";
+}
+.first a{
+    text-decoration: none;
+    color: #0E68B9;
+}
+.first a:hover{
+    text-decoration: none;
+    color: #2E567A;
+}
